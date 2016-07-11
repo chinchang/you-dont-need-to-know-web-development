@@ -2,7 +2,7 @@
 
 ## Why?
 
-After mind-blowing popularity of the **you-dont-*** series of repositories on Github, I present to you **You don't need to know Web Development**! Checkout some past repos in this series:
+After mind-blowing popularity of the **you-dont-*** series of repositories on Github, I present to you - **You don't need to know Web Development**! Checkout some past repos in this series:
 
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
