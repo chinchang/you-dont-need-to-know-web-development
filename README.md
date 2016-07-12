@@ -39,6 +39,10 @@ This is one of the best things you can do. Get someone convinced in your vision 
 
 This one is lil tricky because even you copy an existing thing out there, you might want to change a color or two or use a new font altogether so the resemblance is minimum and no one knows where you got it from. Sure, you can take help from your developer friend for these changes. Easy 😂
 
+### 5. Go out and play Pokemon GO!
+
+Seriously, its fun! Try it.
+
 Hope I am able to convince you to not get into Web Development.
 
 ## Contributing
