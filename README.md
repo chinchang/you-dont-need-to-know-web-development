@@ -19,7 +19,7 @@ Good question. 😁 Web Development is one of the fastest moving field in Comput
 
 So why get into Web Development??? You could do so many other things instead:
 
-### 1. Go into native mobile development 
+### 1. Go into native mobile development
 
 No browser. No JavaScript. No CSS. Do you need more reasons to switch to native mobile development? 😓 Moreover, not much need to get into performance issues in every part of your app. Best part is you get to work with awesome programming languages like Java that are extremely wonderful to code in and get to play with (so many) actual mobile devices (and dimensions) to test your code.
 
@@ -35,7 +35,7 @@ The process is great. You get exactly what you want in one go! Its as if the dev
 
 This is one of the best things you can do. Get someone convinced in your vision and team up with you. Transfer your thoughts into him so he/she can use his dev-powers to build a product just the way you pictured it in your dreams. Ofcourse you'll need to split up the product 50-50 (or so) with him, but how does it matter. You get a cool working finished product free without doing anything and you can now focus on more important things like thinking about what would you reward your users who become part of your referral system when your product launches in beta! 😍
 
-### 4. Copy(inspire?) an existing thing
+### 4. Copy (be inspired by?) an existing thing
 
 This one is lil tricky because even you copy an existing thing out there, you might want to change a color or two or use a new font altogether so the resemblance is minimum and no one knows where you got it from. Sure, you can take help from your developer friend for these changes. Easy 😂
 
@@ -52,4 +52,3 @@ I am happy to accept pull-requests adding more valid & sensible reasons for not 
 ## License
 
 Open-source (README) under WTFPL.
-
